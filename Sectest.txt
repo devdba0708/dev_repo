@@ -1,1 +1,3 @@
 Test file within the new branch "develop"
+
+Adding few more lines to check and to merge again.
